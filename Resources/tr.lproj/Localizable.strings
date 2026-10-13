@@ -1,0 +1,129 @@
+/* AleCal Türkçe metinler */
+
+"about.help" = "Yardım";
+"about.tagline" = "Menü çubuğunuz için küçük bir takvim";
+"about.website" = "Web sitesi";
+
+"access.denied.body" = "AleCal'ın etkinlikleri gösterebilmesi için takvimlerinize tam erişim gerekir. Sistem Ayarları, Gizlilik ve Güvenlik, Takvimler bölümünden izin verin.";
+"access.denied.button" = "Sistem Ayarları'nı Aç";
+"access.denied.title" = "Takvim erişimi yok";
+"access.request" = "Takvim Erişimine İzin Ver";
+
+"agenda.empty" = "Etkinlik yok";
+"agenda.today" = "Bugün";
+"agenda.tomorrow" = "Yarın";
+"agenda.yesterday" = "Dün";
+
+"alert.none" = "Yok";
+"alert.atTime" = "Etkinlik saatinde";
+"alert.5m" = "5 dakika önce";
+"alert.15m" = "15 dakika önce";
+"alert.30m" = "30 dakika önce";
+"alert.1h" = "1 saat önce";
+"alert.1d" = "1 gün önce";
+
+"calendar.nextMonth" = "Sonraki ay (⌘→)";
+"calendar.previousMonth" = "Önceki ay (⌘←)";
+"calendar.today" = "Bugün (T)";
+"calendar.weekShort" = "Hf";
+
+"common.cancel" = "Vazgeç";
+
+"delete.confirm.body" = "Bu işlem etkinliği takviminizden kaldırır ve geri alınamaz.";
+"delete.confirm.delete" = "Sil";
+"delete.confirm.future" = "Bu işlem bu etkinliği ve sonraki tüm tekrarlarını kaldırır. Geri alınamaz.";
+"delete.confirm.title" = "“%@” silinsin mi?";
+
+"error.endBeforeStart" = "Etkinliğin bitişi başlangıcından önce.";
+"error.noWritableCalendar" = "Yeni etkinlik kabul eden bir takvim yok. Takvim uygulamasında düzenlenebilir bir takvim ekleyin.";
+
+"event.allDay" = "Tüm gün";
+"event.copy" = "Ayrıntıları Kopyala";
+"event.delete" = "Etkinliği Sil";
+"event.deleteFuture" = "Bunu ve Sonraki Etkinlikleri Sil";
+"event.join" = "Görüntülü Görüşmeye Katıl";
+"event.untitled" = "Adsız etkinlik";
+
+"menu.preferences" = "Tercihler…";
+"menu.quit" = "AleCal'dan Çık";
+
+"newEvent.alert" = "Uyarı";
+"newEvent.allDay" = "Tüm gün";
+"newEvent.calendar" = "Takvim";
+"newEvent.ends" = "Bitiş";
+"newEvent.heading" = "Yeni Etkinlik";
+"newEvent.location" = "Konum";
+"newEvent.repeat" = "Tekrar";
+"newEvent.save" = "Etkinlik Ekle";
+"newEvent.starts" = "Başlangıç";
+"newEvent.title" = "Başlık";
+
+"prefs.calendars" = "Takvimler:";
+"prefs.clockFormat" = "Tarih ve saat biçimi:";
+"prefs.clockFormat.iconOnly" = "Menü çubuğunda yalnızca simge görünür";
+"prefs.clockFormat.placeholder" = "örn. EEE d MMM HH:mm";
+"prefs.clockFormat.preview" = "Önizleme: %@";
+"prefs.clockFormat.reference" = "Biçim kodları";
+"prefs.eventDays" = "Etkinlikleri göster:";
+"prefs.eventDays.many" = "%d gün";
+"prefs.eventDays.none" = "Etkinlik listesini gizle";
+"prefs.eventDays.one" = "1 gün";
+"prefs.eventDots" = "Etkinliği olan günleri işaretle";
+"prefs.firstWeekday" = "Haftanın ilk günü:";
+"prefs.hideIcon" = "Takvim simgesini gizle";
+"prefs.hideIcon.help" = "Yalnızca menü çubuğunda metin de gösterildiğinde çalışır; böylece AleCal kaybolmaz.";
+"prefs.highlightWeekend" = "Hafta sonlarını gölgelendir";
+"prefs.language" = "Dil:";
+"prefs.language.english" = "English";
+"prefs.language.system" = "Sistem";
+"prefs.language.turkish" = "Türkçe";
+"prefs.launchAtLogin" = "Oturum açıldığında başlat";
+"prefs.outlineIcon" = "Çerçeve simge kullan";
+"prefs.section.calendar" = "Takvim";
+"prefs.section.menuBar" = "Menü çubuğu";
+"prefs.shortcut" = "Klavye kısayolu:";
+"prefs.shortcut.clear" = "Kısayolu kaldır";
+"prefs.shortcut.record" = "Kısayol Kaydet";
+"prefs.shortcut.recording" = "Kısayola basın…";
+"prefs.showDayOfWeek" = "Haftanın gününü göster";
+"prefs.showLocation" = "Etkinlik konumunu göster";
+"prefs.showMonth" = "Ayı göster";
+"prefs.tab.about" = "Hakkında";
+"prefs.tab.appearance" = "Görünüm";
+"prefs.tab.general" = "Genel";
+"prefs.textSize" = "Yazı boyutu:";
+"prefs.textSize.large" = "Büyük";
+"prefs.textSize.medium" = "Orta";
+"prefs.textSize.small" = "Küçük";
+"prefs.theme" = "Tema:";
+"prefs.theme.dark" = "Koyu";
+"prefs.theme.light" = "Açık";
+"prefs.theme.system" = "Sistem";
+"prefs.weekNumbers" = "Hafta numaralarını göster";
+
+"repeat.daily" = "Her gün";
+"repeat.monthly" = "Her ay";
+"repeat.none" = "Hiçbir zaman";
+"repeat.weekly" = "Her hafta";
+"repeat.yearly" = "Her yıl";
+
+"toolbar.newEvent" = "Yeni etkinlik (⌘N)";
+"toolbar.openCalendar" = "Takvim'i Aç";
+"toolbar.settings" = "Ayarlar";
+
+/* v2 additions */
+"about.whatsnew.title" = "Sürüm 2.0 Yenilikleri";
+"about.whatsnew.body" = "• Akıcı geçişler ve modern cam arayüz tasarımı\n• Takvim renklerine göre çoklu renkli noktalar\n• Hızlı Ay ve Yıl seçici\n• Göreli etkinlik durumu rozetleri (Şimdi, 15d sonra)\n• Tek tıkla görüntülü görüşmeye katılma (Zoom, Meet, Teams vb.)\n• Yeni etkinlikler için hızlı süre önayarları";
+"calendar.jumpToMonth" = "Ay ve Yıl Seç";
+"event.now" = "Şimdi";
+"event.inMinutes" = "%dd sonra";
+"event.joinShort" = "Katıl";
+"event.copyMeetingLink" = "Görüşme Bağlantısını Kopyala";
+"event.openCalendar" = "Apple Takvim'de Aç";
+"agenda.eventsCount" = "%d etkinlik";
+"agenda.eventCountSingle" = "1 etkinlik";
+"agenda.noEventsTitle" = "Planlanmış Etkinlik Yok";
+"agenda.noEventsSubtitle" = "Bu dönem için takviminiz boş.";
+"prefs.multiColorDots" = "Renkli etkinlik noktaları";
+"prefs.showRelativeTime" = "Etkinlik durum rozetlerini göster (Şimdi, 15d sonra)";
+"prefs.showMeetingButton" = "Hızlı görüntülü görüşme butonunu göster";

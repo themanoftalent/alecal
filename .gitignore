@@ -1,0 +1,11 @@
+.DS_Store
+*.app
+*.dmg
+/.build
+/build
+/Packages
+xcuserdata/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+.dmg_staging/

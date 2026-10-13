@@ -1,0 +1,129 @@
+/* AleCal English strings */
+
+"about.help" = "Help";
+"about.tagline" = "A small calendar for your menu bar";
+"about.website" = "Website";
+
+"access.denied.body" = "AleCal needs full access to your calendars to show events. Turn it on in System Settings, Privacy & Security, Calendars.";
+"access.denied.button" = "Open System Settings";
+"access.denied.title" = "No calendar access";
+"access.request" = "Allow Calendar Access";
+
+"agenda.empty" = "No events";
+"agenda.today" = "Today";
+"agenda.tomorrow" = "Tomorrow";
+"agenda.yesterday" = "Yesterday";
+
+"alert.none" = "None";
+"alert.atTime" = "At time of event";
+"alert.5m" = "5 minutes before";
+"alert.15m" = "15 minutes before";
+"alert.30m" = "30 minutes before";
+"alert.1h" = "1 hour before";
+"alert.1d" = "1 day before";
+
+"calendar.nextMonth" = "Next month (⌘→)";
+"calendar.previousMonth" = "Previous month (⌘←)";
+"calendar.today" = "Today (T)";
+"calendar.weekShort" = "Wk";
+
+"common.cancel" = "Cancel";
+
+"delete.confirm.body" = "This removes the event from your calendar. You cannot undo this.";
+"delete.confirm.delete" = "Delete";
+"delete.confirm.future" = "This removes this event and all of its future repeats. You cannot undo this.";
+"delete.confirm.title" = "Delete “%@”?";
+
+"error.endBeforeStart" = "The event ends before it starts.";
+"error.noWritableCalendar" = "No calendar accepts new events. Add an editable calendar in the Calendar app.";
+
+"event.allDay" = "All day";
+"event.copy" = "Copy Details";
+"event.delete" = "Delete Event";
+"event.deleteFuture" = "Delete This and Future Events";
+"event.join" = "Join Video Call";
+"event.untitled" = "Untitled event";
+
+"menu.preferences" = "Preferences…";
+"menu.quit" = "Quit AleCal";
+
+"newEvent.alert" = "Alert";
+"newEvent.allDay" = "All day";
+"newEvent.calendar" = "Calendar";
+"newEvent.ends" = "Ends";
+"newEvent.heading" = "New Event";
+"newEvent.location" = "Location";
+"newEvent.repeat" = "Repeat";
+"newEvent.save" = "Add Event";
+"newEvent.starts" = "Starts";
+"newEvent.title" = "Title";
+
+"prefs.calendars" = "Calendars:";
+"prefs.clockFormat" = "Date and time format:";
+"prefs.clockFormat.iconOnly" = "Menu bar shows the icon only";
+"prefs.clockFormat.placeholder" = "e.g. EEE d MMM HH:mm";
+"prefs.clockFormat.preview" = "Preview: %@";
+"prefs.clockFormat.reference" = "Format codes";
+"prefs.eventDays" = "Show events for:";
+"prefs.eventDays.many" = "%d days";
+"prefs.eventDays.none" = "Hide event list";
+"prefs.eventDays.one" = "1 day";
+"prefs.eventDots" = "Mark days that have events";
+"prefs.firstWeekday" = "First day of week:";
+"prefs.hideIcon" = "Hide calendar icon";
+"prefs.hideIcon.help" = "Works only when the menu bar also shows text, so AleCal never disappears.";
+"prefs.highlightWeekend" = "Shade weekends";
+"prefs.language" = "Language:";
+"prefs.language.english" = "English";
+"prefs.language.system" = "System";
+"prefs.language.turkish" = "Türkçe";
+"prefs.launchAtLogin" = "Launch at login";
+"prefs.outlineIcon" = "Use outline icon";
+"prefs.section.calendar" = "Calendar";
+"prefs.section.menuBar" = "Menu bar";
+"prefs.shortcut" = "Keyboard shortcut:";
+"prefs.shortcut.clear" = "Remove shortcut";
+"prefs.shortcut.record" = "Record Shortcut";
+"prefs.shortcut.recording" = "Type shortcut…";
+"prefs.showDayOfWeek" = "Show day of week";
+"prefs.showLocation" = "Show event location";
+"prefs.showMonth" = "Show month";
+"prefs.tab.about" = "About";
+"prefs.tab.appearance" = "Appearance";
+"prefs.tab.general" = "General";
+"prefs.textSize" = "Text size:";
+"prefs.textSize.large" = "Large";
+"prefs.textSize.medium" = "Medium";
+"prefs.textSize.small" = "Small";
+"prefs.theme" = "Theme:";
+"prefs.theme.dark" = "Dark";
+"prefs.theme.light" = "Light";
+"prefs.theme.system" = "System";
+"prefs.weekNumbers" = "Show week numbers";
+
+"repeat.daily" = "Every day";
+"repeat.monthly" = "Every month";
+"repeat.none" = "Never";
+"repeat.weekly" = "Every week";
+"repeat.yearly" = "Every year";
+
+"toolbar.newEvent" = "New event (⌘N)";
+"toolbar.openCalendar" = "Open Calendar";
+"toolbar.settings" = "Settings";
+
+/* v2 additions */
+"about.whatsnew.title" = "What's New in Version 2.0";
+"about.whatsnew.body" = "• Modern UI layout with refined fonts, colors, and smooth hover states\n• Multi-colored dots matching each calendar's color\n• Interactive Month & Year quick jumper\n• Relative event status badges (Now, In 15m)\n• One-click video call join button (Zoom, Meet, Teams, etc.)\n• Quick duration presets for new events";
+"calendar.jumpToMonth" = "Select Month & Year";
+"event.now" = "Now";
+"event.inMinutes" = "In %dm";
+"event.joinShort" = "Join";
+"event.copyMeetingLink" = "Copy Meeting Link";
+"event.openCalendar" = "Open in Apple Calendar";
+"agenda.eventsCount" = "%d events";
+"agenda.eventCountSingle" = "1 event";
+"agenda.noEventsTitle" = "No Upcoming Events";
+"agenda.noEventsSubtitle" = "Your schedule is clear for this period.";
+"prefs.multiColorDots" = "Multi-colored event dots";
+"prefs.showRelativeTime" = "Show event status badges (Now, In 15m)";
+"prefs.showMeetingButton" = "Show video call join button";
